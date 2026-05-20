@@ -33,16 +33,16 @@ Smart Email Assistant is an AI-powered application that helps users generate pro
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+home.png
 
 ### AI Reply Generation
-![Reply](screenshots/reply.png)
+ai-reply.png
 
 ### Loading State
-![Loading](screenshots/loading.png)
+loading.png
 
 ### Gmail Integration
-![Gmail](screenshots/gmail-extension.png)
+gmail-extension.png
 
 ---
 
