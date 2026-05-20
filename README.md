@@ -84,17 +84,22 @@ GEMINI_API_KEY=your_api_key
 ## API Endpoint
 
 ```http
-POST /generate-email
+POST /api/email/generate
 ```
 
 ---
 
 ## Folder Structure
 
-```text
-frontend/
-backend/
-screenshots/
+```Smart_Email_Assistant/
+│
+├── email-writer-ext/
+├── email-writer/
+├── README.md
+├── home.png
+├── ai-reply.png
+├── loading.png
+└── gmail-extension.png
 ```
 
 ---
