@@ -91,7 +91,8 @@ POST /api/email/generate
 
 ## Folder Structure
 
-```Smart_Email_Assistant/
+```text
+Smart_Email_Assistant/
 │
 ├── email-writer-ext/
 ├── email-writer/
