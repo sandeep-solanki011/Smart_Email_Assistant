@@ -38,6 +38,12 @@ Smart Email Assistant is an AI-powered application that helps users generate pro
 ### AI Reply Generation
 ![Reply](screenshots/reply.png)
 
+### Loading State
+![Loading](screenshots/loading.png)
+
+### Gmail Integration
+![Gmail](screenshots/gmail-extension.png)
+
 ---
 
 ## Installation
